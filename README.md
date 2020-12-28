@@ -3,7 +3,7 @@
 <!--
 **SuZHui/SuZHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-()[https://img.shields.io/badge/Hello-World-brightgreen]
+![](https://img.shields.io/badge/Hello-World-brightgreen)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
