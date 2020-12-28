@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://img.shields.io/badge/Hello-World-brightgreen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuZHui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SuZHui/SuZHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
