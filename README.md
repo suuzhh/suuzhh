@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuZHui)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sdn4s5utjfkyaj4a4txkatkf4e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b0b0b0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sdn4s5utjfkyaj4a4txkatkf4e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b0b0b0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 <!--
 **SuZHui/SuZHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
