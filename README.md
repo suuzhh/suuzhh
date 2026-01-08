@@ -1,5 +1,7 @@
 ### Pick Pick Mushrooms ~ 🍄🍄🍄
 <!--![](https://img.shields.io/badge/Hello-World-brightgreen)-->
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=suuzhh&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api?username=suuzhh&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 
