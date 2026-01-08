@@ -1,6 +1,7 @@
 ### Pick Pick Mushrooms ~ 🍄🍄🍄
 <!--![](https://img.shields.io/badge/Hello-World-brightgreen)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suuzhh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suuzhh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sdn4s5utjfkyaj4a4txkatkf4e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b0b0b0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
